@@ -1,0 +1,12 @@
+{
+  "vocab": 2048,
+  "width": 256,
+  "heads": 8,
+  "depth": 8,
+  "context": 256,
+  "mlp_hidden": 768,
+  "dropout": 0.2,
+  "qk_norm": true,
+  "rope_base": 10000.0,
+  "mlp": "gelu"
+}

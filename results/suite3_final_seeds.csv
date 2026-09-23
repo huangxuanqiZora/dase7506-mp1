@@ -1,0 +1,3 @@
+name,validation_bpb,parameters,train_tokens,train_seconds,seed,selected_source
+final_s42,1.497305691772821,5772032,163840000,5387.770636338001,42,ema
+final_s123,1.500636724313791,5772032,163840000,5401.646296907,123,ema
